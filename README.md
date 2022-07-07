@@ -1,4 +1,4 @@
-## Hi I'm Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
+## Hi I'm Andrew <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
 
 Welcome to my profile! 
 - 👀 I’m interested in ... learning more about web Development 
