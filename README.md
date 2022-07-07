@@ -1,7 +1,7 @@
 ## Hi I'm Andrew <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
 
 Welcome to my profile! 
-- 👀 I’m interested in ... learning more about web Development 
+- 👀 I’m interested in ... learning more about Web Development 
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript at FreeCodeCamp
 
 
