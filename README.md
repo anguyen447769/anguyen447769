@@ -2,7 +2,7 @@
 
 Welcome to my profile! 
 - 👀 I’m interested in ... learning more about Web Development 
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript at FreeCodeCamp
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript @ [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 
 <!---
